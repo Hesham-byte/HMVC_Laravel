@@ -1,0 +1,11 @@
+{
+    "Customers": true,
+    "Merchant": true,
+    "Famous": true,
+    "ProductsCategory": true,
+    "Advertises": true,
+    "Tax": true,
+    "Products": true,
+    "Banners": true,
+    "Tags": true
+}

@@ -1,0 +1,23 @@
+<?php
+return [
+    'users'=>'users',
+    'user'=>'user',
+    'admins'=>'Admins',
+    'name'=>'name',
+    'role'=>'role',
+    'mobile_number'=>'Mobile Number',
+    'first_name'=>'First Name',
+    'last_name'=>'Last Name',
+    'email'=>'Email',
+    'user_created_successfully'=>'User Created Successfully',
+    'user_updated_successfully'=>'User Updated Successfully',
+    'welcome_user'=>'We created an account for you at ESU SIS, Use below credentials to complete your account',
+    'password'=>'Password',
+    'password_confirmation'=>'password confirmation',
+    'type' => 'type',
+    'admin' => 'Admin',
+    'customer' => 'Customer',
+    'merchant' => 'Merchant',
+    'famous' => 'Famous',
+    'gander' => 'Gander',
+];

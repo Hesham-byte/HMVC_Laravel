@@ -1,0 +1,11 @@
+{
+    "name": "Famous",
+    "alias": "famous",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Famous\\app\\Providers\\FamousServiceProvider"
+    ],
+    "files": []
+}
